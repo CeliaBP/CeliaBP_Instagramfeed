@@ -1,0 +1,37 @@
+.feed {
+    background: rgb(226, 221, 221);
+    padding: 5px;
+}
+.post {
+    background: white;
+    border-radius: 2px;
+    padding-bottom: 5px;
+    width: 350px;
+    margin: 40px auto;
+     
+}
+.post-title {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.caption {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.head {
+    text-align: center;
+    padding-top: 1px;
+}
+
+.title,.number {
+    display:inline-flex;
+}
+
+.number {
+   color: grey ;
+   float: inline-end
+}
+
+.image {
+    width: 350px;
+}
